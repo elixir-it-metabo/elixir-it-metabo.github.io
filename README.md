@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# The ELIXIR-IT-Metabolomics community
 
-You can use the [editor on GitHub](https://github.com/elixir-it-metabo/elixir-it-metabo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Questo è il sito del gruppo di lavoro ELIXIR-IT-Metabolomics che  ha lo scopo di supportare la crescente comunità Italiana di
+metabolomica nell'analisi e rianalisi ad alta processività di dati sperimentali ottenuti da NMR e spettrometria di massa. 
 
-### Markdown
+Come punto di partenza, questa iniziativa farà leva sui risultati del
+progetto Europeo H2020 PhenoMeNal, http://phenomenal-h2020.eu/home/, in cui
+è stata sviluppata una e-infrastruttura standardizzata per supportare
+pipelines dedicate al data processing e analisi di dati fenotipici
+molecolari generati da applicazioni metabolomiche. Inoltre, una prima lista
+di sviluppi futuri include la connessione tra metabolobica e biobanking --
+ad esempio per controlli di qualità dei campioni -- ed applicazioni verso
+system biology.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Il gruppo sarà direttamente interfacciato alla Elixir Metabolomics community
+https://www.elixir-europe.org/communities/metabolomics
 
-```markdown
-Syntax highlighted code block
+Mailing list:  https://groups.google.com/forum/#!forum/elixir-it-metabolomics
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elixir-it-metabo/elixir-it-metabo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Per unirti al gruppo, chiedi attraverso il modulo della mailing list su Google Groups oppure contatta direttamente:
+  * Antonio Rosato (rosato@cerm.unifi.it)
+  * Luca Pireddu (luca.pireddu@crs4.it)
+  * Gianluigi Zanetti (gianluigi.zanetti@crs4.it)  

@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-site:
-  title: The ELIXIR-IT-Metabolomics community
-  description: elixir-it-metabo.github.io
-  logo: img/elixir-it.png
+title: The ELIXIR-IT-Metabolomics community
+description: elixir-it-metabo.github.io
+logo: img/elixir-it.png

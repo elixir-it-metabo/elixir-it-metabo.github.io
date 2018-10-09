@@ -1,6 +1,3 @@
-# The ELIXIR-IT-Metabolomics community
-
-
 Questo è il sito del gruppo di lavoro ELIXIR-IT-Metabolomics che  ha lo scopo di supportare la crescente comunità Italiana di
 metabolomica nell'analisi e rianalisi ad alta processività di dati sperimentali ottenuti da NMR e spettrometria di massa. 
 

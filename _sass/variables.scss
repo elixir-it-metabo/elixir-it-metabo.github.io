@@ -4,8 +4,12 @@ $medium-breakpoint: 42em !default;
 
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #159957 !default;
-$header-bg-color-secondary: #155799 !default;
+
+// Changed to darker colors, disable gradient
+// $header-bg-color: #159957 !default;
+// $header-bg-color-secondary: #155799 !default;
+$header-bg-color: #023452 !default;
+$header-bg-color-secondary: #023452 !default;
 
 // Text
 $section-headings-color: #159957 !default;

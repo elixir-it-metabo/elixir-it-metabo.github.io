@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: The ELIXIR-IT Metabolomics community
 description: elixir-it-metabo.github.io
 logo: img/elixir-it.png
+repository: elixir-it-metabo/elixir-it-metabo.github.io.git
+exclude: [vendor, _utils, dev_tools.md]
